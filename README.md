@@ -1,0 +1,2 @@
+# provision-20-window-and-120servers-which-may-be-needed-during-certain-period-of-the-year-
+This project is aimed  at showcasing the necessary  information a solution architect  will collect from a client who wants to  start using the cloud services  and its estimated that 20 windows and 120 servers will be needed during periods of  the year. And the project is also to practically demonstrate how this servers be provision
